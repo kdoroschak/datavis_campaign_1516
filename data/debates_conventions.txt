@@ -1,0 +1,15 @@
+2-4  ,,  DEM-debate
+2-11  , ,   DEM-debate
+3-6    ,,   DEM-debate
+3-9 ,,   DEM-debate
+7-25, , DEM-convention
+9-26 , ,  pres-debate
+10-4  ,,  VP-debate
+10-9 , ,  pres-debate
+10-19 ,,  pres-debate
+2-6 ,, REP-debate
+2-13 ,,  REP-debate
+2-25  ,,  REP-debate
+3-3 ,, REP-debate
+3-10 ,,  REP-debate
+7-18  ,,  REP-debate
